@@ -37,7 +37,7 @@ overflow: hidden;
 position: fixed;
 top:0;width: 100%;
 z-index:1000;
-background:lightslategray; height: 30vh;}
+background:black; height: 30vh;}
 .row ul{display: flex;}
 .logo
 {
@@ -73,7 +73,7 @@ font-weight: bold;
 .main-nav li a
 {
     padding: 5px 0;
-    color: darkolivegreen;
+    color: wheat;
     text-decoration: none;
     font-size: 90%;
     font-weight: 100;
