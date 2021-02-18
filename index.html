@@ -29,7 +29,9 @@
 <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 </head>
-    <body>
+    <body onload="myFunction()">
+        <div id="loading">
+        </div>
         <section id="home">
 <header>
 <nav>
@@ -125,5 +127,11 @@ function relocate(){window.location="#home"}
     <h3 style="margin-left: 50px;">&copy 2021 <BR>SHREYASH KUMAR</h3> 
         <p class="note"> P.S: THIS WEBSITE IS MADE FOR SCHOOL PURPOSES<BR> ANY ISSUES OR BUGS FOUND CAN BE REPORTED TO ME BY CLICKING<a href="#contact"> HERE</a> </h3>
         </footer>
+<script>
+    var preloader = document.getElementById('loading');
+    function myFunction(){
+        preloader.style.display = "none";
+    }
+</script>
 </body>
 </html>
