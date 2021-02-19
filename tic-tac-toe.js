@@ -1,6 +1,6 @@
 //<i class="far fa-circle"></i>
 //<i class="fa fa-times" aria-hidden="true"></i>
-
+//<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 
 // Selecting All "Starting Page" Tags
 let startingpage = document.querySelector(".startingpage");
