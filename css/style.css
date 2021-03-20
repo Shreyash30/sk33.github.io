@@ -40,10 +40,11 @@ html, body {
 
 margin: 0 auto;
 overflow: hidden;
-
+position: relative;
 top:0;width: 100%;
 z-index:1000;
-background:black; height: 25vh;}
+max-width: 1309px;
+max-height: 26vh;}
 .row ul{display: flex;}
 .logo
 {
