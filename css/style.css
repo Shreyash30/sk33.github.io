@@ -37,13 +37,13 @@ html, body {
       }
   }
   .row { 
-max-width: 1349px;
+
 margin: 0 auto;
 overflow: hidden;
-position: fixed;
+
 top:0;width: 100%;
 z-index:1000;
-background:black; height: 30vh;}
+background:black; height: 25vh;}
 .row ul{display: flex;}
 .logo
 {
