@@ -233,8 +233,8 @@ th{font-family: 'Merienda One', cursive; text-decoration: underline;}
 td{font-family: 'IM Fell English', serif;
     font-family: 'Merienda One', cursive;
 }
-.note{font-size: 25px; color: red;font-family: 'Staatliches', cursive; margin-left:38%;
-width: 80%; height: 10vh; animation: backInRight 2s;}
+.note{font-size: 29px; color: red;font-family: 'Staatliches', cursive; margin-left:38%;
+width: 80%; height: 15vh; animation: backInRight 2s;}
 .head-project{margin-left: 40%; font-family: 'Redressed', cursive; font-weight: bold; animation: colourchange3 2s infinite;}
 .head-project:hover{text-decoration: underline;}
 @keyframes colourchange3
