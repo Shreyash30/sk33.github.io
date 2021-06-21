@@ -233,7 +233,7 @@ th{font-family: 'Merienda One', cursive; text-decoration: underline;}
 td{font-family: 'IM Fell English', serif;
     font-family: 'Merienda One', cursive;
 }
-.note{font-size: 29px; color: azure;font-family: 'Staatliches', cursive; margin-left:38%;
+.note{font-size: 29px; color:#FFFF00;font-family: 'Staatliches', cursive; margin-left:38%;
 width: 80%; height: 15vh; animation: backInRight 2s;}
 .head-project{margin-left: 40%; font-family: 'Redressed', cursive; font-weight: bold; animation: colourchange3 2s infinite;}
 .head-project:hover{text-decoration: underline;}
@@ -245,7 +245,7 @@ width: 80%; height: 15vh; animation: backInRight 2s;}
 100%{color:darkblue}}
 
 .projectlist{display: flex; justify-content: center; align-items: center; position: relative; flex-wrap: wrap;}
-.projectlist .card{max-width: 300px; height: 215px; position: relative; background: white; margin: 30px 10px; padding: 20px 15px; display: flex; flex-direction: column; box-shadow: 0px 5px 202px rgba(0, 0, 0, 0.5);
+.projectlist .card{max-width: 300px; height: 215px; position: relative; background: white; margin: 45px 10px; padding: 20px 15px; display: flex; flex-direction: column; box-shadow: 0px 5px 202px rgba(0, 0, 0, 0.5);
  transition: 0.3s ease-in-out;}
  .projectlist .card:hover{height: 450px;}
 .projectlist .card .imgbx{position: relative; top: -60px; z-index:1; left: 20px;}
