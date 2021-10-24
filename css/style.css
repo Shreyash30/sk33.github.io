@@ -318,6 +318,13 @@ color: darkred;
     .container .contactinfo{
         margin-bottom: 40px; width: 100%;
     }}
+    table.bio
+    {
+        border:5px solid black;
+        border-radius: 15px;
+        padding:10px;
+        background-color: lightgoldenrodyellow;
+    }
     footer{ display:flex;align-items: center; justify-content: center; height: 30vh; background-color: #232222; font-size: 25px;
         font-family: 'Cinzel', serif; color: darksalmon;}
     
