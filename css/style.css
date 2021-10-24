@@ -90,6 +90,7 @@ font-family: 'Audiowide', cursive;
  margin-left: 40px;
 font-weight: bold;
 }
+/* to make it on a new line and give some space  */
  .clearfix:after{
     content: ".";
     visibility: hidden;
